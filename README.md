@@ -12,7 +12,7 @@ This analysis answer questions such as:
 
 # Data Collection
 
-The data was provided by the 30DaysOfLearning instructors in a GitHub folder, the origin of the dataset can be further traced to Kaggle. The dataset can also be gotten Here.
+The data was provided by the 30DaysOfLearning instructors in a GitHub folder, the origin of the dataset can be further traced to Kaggle. The dataset can also be gotten [Here](https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay).
 
 # Data Preparation
 
@@ -62,5 +62,49 @@ The data contains 539,383 rows and 9 columns. The tool used for analysis and vis
 
 # Data Visualization and Insights
 
-Contained in the data is a total of 18 Airlines, 539,383 flights recorded with 299,119 on schedule flight and 240,264 delayed flights. The Delayed flight is about 44.54% of the total recorded flight.
+* Contained in the data is a total of 18 Airlines, 539,383 flights recorded with 299,119 on schedule flight and 240,264 delayed flights. The Delayed flight is about 44.54% of the total recorded flight.
+
+![image](https://user-images.githubusercontent.com/101842162/180246911-59d1adb7-1cb0-4892-8c1f-1b83ba422ca5.png)
+
+* Considering the rate of delayed flight against on scheduled flights WN(Southwest Airline) has the highest number of delayed flight. WN(Southwest Airline) recorded a total of 94,907 flights out of which 65,657 of the flight is delayed which amounts to about 69.8% of the total flight.
+
+![image](https://user-images.githubusercontent.com/101842162/180247076-2f1a65be-8cae-4aae-936f-a2563fae728e.png)
+
+* WN(Southwest Airline) recorded the highest number of flights with 94,027 flights which accounts for about 17.44% of the total flights recorded. Despite being the Airline with the highest flight delay recorded WN(Southwest Airline) seem to be the most patronized airline of the 18 airlines. Underlying factor to this is the fact that it is a low cost carrier while HA- Hawaiian Airline which has the lowest number of flights is an expensive airline.
+
+![image](https://user-images.githubusercontent.com/101842162/180247200-7858b5a9-7f1c-40d4-a33f-e1fa30d92de9.png)
+
+* Wednesday is the day of the week with most flights recorded with 91,445 flights while most delayed flight is recorded on Wednesday with 42,254 flights delayed.
+
+![image](https://user-images.githubusercontent.com/101842162/180247321-967f19a7-9678-45fe-9863-c240c39fe893.png)
+
+* The table below shows the total number of length, time and flights for each airline.
+
+![image](https://user-images.githubusercontent.com/101842162/180247447-6a654bab-9cc2-49bd-a8ca-ce2ff17bcddc.png)
+
+Some of the reasons for the high rate of flight delay maybe as a result of the following:
+
+* adverse weather condition
+* air traffic control
+* mechanical issues and some others reasons stated in THECLAIMCOMPASS BLOG as seen below:
+
+![image](https://user-images.githubusercontent.com/101842162/180247625-741bfd72-9550-4a2f-a7df-913542726741.png)
+
+# Dashboard
+
+![image](https://user-images.githubusercontent.com/101842162/180247744-518f5f0c-2731-4962-9ed0-e7bc1dfef712.png)
+
+# Recommendation
+
+The airlines should look into their charges so as to accommodate more customers
+The airlines should also look into days in which they record more passengers so as to prepare ahead for the crowd and ensure promptness in the scheduled flights
+Mechanical checks should be made ahead of time so as to reduce the rate of delay in flights.
+You can further relate with the dashboard Here.
+
+You can also reach me on [LinkedIn](http://www.linkedin.com/in/oluwatobiloba-fatodu) and [Twitter](https://twitter.com/TobilobaKalos).
+
+Thank you.
+
+
+
 
