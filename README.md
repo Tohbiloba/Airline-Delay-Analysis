@@ -99,7 +99,8 @@ Some of the reasons for the high rate of flight delay maybe as a result of the f
 The airlines should look into their charges so as to accommodate more customers
 The airlines should also look into days in which they record more passengers so as to prepare ahead for the crowd and ensure promptness in the scheduled flights
 Mechanical checks should be made ahead of time so as to reduce the rate of delay in flights.
-You can further relate with the dashboard Here.
+
+You can further relate with the dashboard [Here](https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=66b3f0c2-8bc6-451e-9603-986f618ae682&pbi_source=mobile_android&groupObjectId=&appId=&reportObjectId=50f28766-4f53-450c-81cd-f1d85ba87334&reportPage=ReportSection5e8e650a09cad9791c07&bookmarkGuid=cf796314-8342-42b8-a726-e32a123ea229).
 
 You can also reach me on [LinkedIn](http://www.linkedin.com/in/oluwatobiloba-fatodu) and [Twitter](https://twitter.com/TobilobaKalos).
 
